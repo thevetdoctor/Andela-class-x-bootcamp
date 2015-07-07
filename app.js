@@ -1,0 +1,1 @@
+var naijaArtists = ["Tuface","9ice","Timaya","Olamide"];
